@@ -1,0 +1,15 @@
+C:\Users\Edmilson\source\repos\TestFuncComEF\TestFuncComEF.Domain\bin\Release\net5.0\TestFuncComEF.Domain.deps.json
+C:\Users\Edmilson\source\repos\TestFuncComEF\TestFuncComEF.Domain\bin\Release\net5.0\TestFuncComEF.Domain.runtimeconfig.json
+C:\Users\Edmilson\source\repos\TestFuncComEF\TestFuncComEF.Domain\bin\Release\net5.0\TestFuncComEF.Domain.runtimeconfig.dev.json
+C:\Users\Edmilson\source\repos\TestFuncComEF\TestFuncComEF.Domain\bin\Release\net5.0\TestFuncComEF.Domain.dll
+C:\Users\Edmilson\source\repos\TestFuncComEF\TestFuncComEF.Domain\bin\Release\net5.0\ref\TestFuncComEF.Domain.dll
+C:\Users\Edmilson\source\repos\TestFuncComEF\TestFuncComEF.Domain\bin\Release\net5.0\TestFuncComEF.Domain.pdb
+C:\Users\Edmilson\source\repos\TestFuncComEF\TestFuncComEF.Domain\obj\Release\net5.0\TestFuncComEF.Domain.csproj.AssemblyReference.cache
+C:\Users\Edmilson\source\repos\TestFuncComEF\TestFuncComEF.Domain\obj\Release\net5.0\TestFuncComEF.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edmilson\source\repos\TestFuncComEF\TestFuncComEF.Domain\obj\Release\net5.0\TestFuncComEF.Domain.AssemblyInfoInputs.cache
+C:\Users\Edmilson\source\repos\TestFuncComEF\TestFuncComEF.Domain\obj\Release\net5.0\TestFuncComEF.Domain.AssemblyInfo.cs
+C:\Users\Edmilson\source\repos\TestFuncComEF\TestFuncComEF.Domain\obj\Release\net5.0\TestFuncComEF.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Edmilson\source\repos\TestFuncComEF\TestFuncComEF.Domain\obj\Release\net5.0\TestFuncComEF.Domain.dll
+C:\Users\Edmilson\source\repos\TestFuncComEF\TestFuncComEF.Domain\obj\Release\net5.0\ref\TestFuncComEF.Domain.dll
+C:\Users\Edmilson\source\repos\TestFuncComEF\TestFuncComEF.Domain\obj\Release\net5.0\TestFuncComEF.Domain.pdb
+C:\Users\Edmilson\source\repos\TestFuncComEF\TestFuncComEF.Domain\obj\Release\net5.0\TestFuncComEF.Domain.genruntimeconfig.cache
