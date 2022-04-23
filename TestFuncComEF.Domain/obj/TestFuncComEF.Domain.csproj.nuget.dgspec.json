@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Edmilson\\source\\repos\\TestFuncComEF\\TestFuncComEF.Domain\\TestFuncComEF.Domain.csproj": {}
+    "C:\\Users\\Edmilson\\source\\repos\\edmilsonhora\\AzureFunction_ComEF\\TestFuncComEF.Domain\\TestFuncComEF.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Edmilson\\source\\repos\\TestFuncComEF\\TestFuncComEF.Domain\\TestFuncComEF.Domain.csproj": {
+    "C:\\Users\\Edmilson\\source\\repos\\edmilsonhora\\AzureFunction_ComEF\\TestFuncComEF.Domain\\TestFuncComEF.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Edmilson\\source\\repos\\TestFuncComEF\\TestFuncComEF.Domain\\TestFuncComEF.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Edmilson\\source\\repos\\edmilsonhora\\AzureFunction_ComEF\\TestFuncComEF.Domain\\TestFuncComEF.Domain.csproj",
         "projectName": "TestFuncComEF.Domain",
-        "projectPath": "C:\\Users\\Edmilson\\source\\repos\\TestFuncComEF\\TestFuncComEF.Domain\\TestFuncComEF.Domain.csproj",
+        "projectPath": "C:\\Users\\Edmilson\\source\\repos\\edmilsonhora\\AzureFunction_ComEF\\TestFuncComEF.Domain\\TestFuncComEF.Domain.csproj",
         "packagesPath": "C:\\Users\\Edmilson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Edmilson\\source\\repos\\TestFuncComEF\\TestFuncComEF.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Edmilson\\source\\repos\\edmilsonhora\\AzureFunction_ComEF\\TestFuncComEF.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Edmilson\\AppData\\Roaming\\NuGet\\NuGet.Config",

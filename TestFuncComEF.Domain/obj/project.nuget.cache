@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MofYUrknauXDQhkEvcihvEkNer4nU9hCaQVDu+8m7/34y7gcoCgE7Te/RYldr+PHYKNuO2bKRG98rQkasIwukA==",
+  "dgSpecHash": "3vtjmYYtNLZ/iJcBSQE02VFr51SChgnt/DjIcpX+NECcNvoD9N2b+41BkRdFr3kftDwYiD7KUKloTSYK7KQv9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Edmilson\\source\\repos\\TestFuncComEF\\TestFuncComEF.Domain\\TestFuncComEF.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Edmilson\\source\\repos\\edmilsonhora\\AzureFunction_ComEF\\TestFuncComEF.Domain\\TestFuncComEF.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Edmilson\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Edmilson\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
